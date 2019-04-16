@@ -1,0 +1,610 @@
+#
+# Results on Monday March 26 2018 19:39:53 UTC.
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0 Mobile/15D100 Safari/604.1
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1522093193,3c81ecfc54e910befee2d1201d02609a,Form,1,0,intro,NULL,consent,yes
+1522093193,3c81ecfc54e910befee2d1201d02609a,Form,1,0,intro,NULL,language,Other
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. html.
+# 9. startValue.
+# 10. endValue.
+# 11. value.
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,3,0,practice,NULL,<div style="width:45em"><blockquote style="text-align:justify"><p style="font-size:14px">This is a practice item%2C so your answer will not be taken into account for the experiment. Your task is to check whether you think the tweet below is ironic or not. If you think it is ironic%2C slide the slider all the way to the right. If you think the tweet is not ironic%2C then slide all the way to the left. If you are not sure%2C or you think the tweet is not fully ironic nor not ironic%2C you can slide the slider to some intermediate position.<br><b>Example 1:</b></p></blockquote> <p style="font-size:14px">"I really love this year’s summer; weeks and weeks of awful weather."</p> <blockquote style="text-align:justify"><p style="font-size:14px">In this example the tweet is ironic%2C so the handle should be placed somewhere on the right side of the slider (in the yellow area).</p></blockquote></div>,-100.00,100.00,0.00
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,4,0,practice,NULL,<div style="width:45em"><blockquote style="text-align:justify"><p style="font-size:14px">This is another practice item%2C so your answer will not be taken into account for the experiment. Again%2C you have to evaluate how ironic the tweet is.<br><b>Example 2:</b></p></blockquote> <p style="font-size:14px"> "happy birthday &lt;3 @grant_evans19 hope u have the best day :) love ya &lt;3"</p> <blockquote style="text-align:justify"><p style="font-size:14px">In this example the tweet is not ironic%2C so the handle should be placed somewhere on the left side of the slider (in the blue area).</p></blockquote></div>,-100.00,100.00,0.00
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,32,0,item-27,NULL,<p>I ordered 6 new pairs of shoes...this saving money thing is going pretty good for me #great</p>,-100.00,100.00,-100.00
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,26,0,item-21,NULL,<p>Glad to see #Hollywood chose not to use evil #guns%2C knives or violence as part of their #profit machine%2C I mean movie. #Deadpool</p>,-100.00,100.00,-100.00
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,16,0,item-11,NULL,<p>So emotional this morning. Saying bye to my best friend again :( @melonhairy and reading the end of book 5 of hp. :( waah! #sad</p>,-100.00,100.00,-100.00
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,13,0,item-8,NULL,<p>I love this band so much! #awesome #greatperformance </p>,-100.00,100.00,-100.00
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,18,0,item-13,NULL,<p>Burn Facebook. Burn. I deleted my account permanently 2 years ago and have never been happier. #DeleteFacebook</p>,-100.00,100.00,-100.00
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,25,0,item-20,NULL,<p>And he sleeps bless him! #sleepy #myboy #myworld #son #love</p>,-100.00,100.00,-100.00
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,24,0,item-19,NULL,<p>To our @laiylaa_ &lt;3 We spent two exceptional days with you &amp; we felt a pang of sorrow in our hearts as we left you this morning :'( Once again%2C thank you for having accompanied us in our challenges till the end! Take care! #friend </p>,-100.00,100.00,0.00
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,34,0,item-29,NULL,<p>Just saw a non-smoking sign in the lobby of a tobacco company. #logic</p>,-100.00,100.00,-100.00
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,6,0,item-1,NULL,<p>As always%2C Republicans are the most honest and truly work for the people. The Democrats are liars and thieves. #extremelySerious #lol</p>,-100.00,100.00,0.00
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,33,0,item-28,NULL,<p>@CIA We hear you’re looking for sentiment analysis to detect sarcasm in Tweets. That’ll be easy! #SLA2014 #goodLuck</p>,-100.00,100.00,0.00
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,23,0,item-18,NULL,<p>With 29:29 left to play in the 1st half%2C the Lady Warriors Soccer Team is on the scoreboard. Taylor Gentry gets one by the keeper for a 1-0 lead. #soccer #LadyWarriors</p>,-100.00,100.00,0.00
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,30,0,item-25,NULL,<p>Hahaha%2C who needs sleep anyhow. A lie in at the weekend may have been appreciated%2C but I'd much rather be awake right now. #coursenot #letmesleep</p>,-100.00,100.00,100.00
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,9,0,item-4,NULL,<p>This play is amazingly good. #Shakespeare #theatre</p>,-100.00,100.00,0.00
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,27,0,item-22,NULL,<p>Let's have a moment of silence for all those who are stuck in #traffic on their way to #gym this morning.</p>,-100.00,100.00,85.60
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,10,0,item-5,NULL,<p>I really have fantasssstic friends.. #fight #drunk</p>,-100.00,100.00,-100.00
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,8,0,item-3,NULL,<p>I can't believe I did it! All this hard work has paid off. #sportsIllustrated #joking</p>,-100.00,100.00,0.00
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,17,0,item-12,NULL,<p>#HappyBirthdayEmilyBett @emilybett :) Wishing you all the best you beautiful%2Csweet%2Ctalented%2Camazing… #birthdayGirl</p>,-100.00,100.00,-100.00
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,20,0,item1-15,NULL,<p>#marchforourlives! &lt;3 Young people have the voice!</p>,-100.00,100.00,0.00
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,11,0,item-6,NULL,<p>Republicans are #prolife and pro guns. #constitution #secondAmendment #proud</p>,-100.00,100.00,-100.00
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,28,0,item-23,NULL,<p>Most of us didn't focus in the #ADHD lecture. #lol</p>,-100.00,100.00,0.00
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,15,0,item-10,NULL,<p>Monday mornings are my fave :) #run #sunny #beautifulDay</p>,-100.00,100.00,-100.00
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,7,0,item-2,NULL,<p>So I just colored with Eva for an hour. Yeah my summer so far has been so fun :) #sister #holidays #lovepainting</p>,-100.00,100.00,40.41
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,14,0,item-9,NULL,<p>Boyfriend of the year award. #breakup #cheater #sad #hurt</p>,-100.00,100.00,-100.00
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,19,0,item-14,NULL,<p>Nothing makes me happier than spending time with our youngest grandson%2C Justin. He was named after our son who passed away. He is such a blessing! #InternationalDayOfHappiness</p>,-100.00,100.00,0.00
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,35,0,item-30,NULL,<p>Throwing up at 6:00 am is always fun #yay #wow</p>,-100.00,100.00,95.20
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,31,0,item-26,NULL,<p>I just love it when I speak to folk and they totally ignore me!!! #thankyou #verypolite</p>,-100.00,100.00,55.60
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,21,0,item-16,NULL,<p>Marchers are chanting “No justice%2C no peace!” #MarchForOurLives @3onyourside</p>,-100.00,100.00,-59.99
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,22,0,item-17,NULL,<p>Behind the #Job: Life as a Formula 1 mechanic. As the new season starts in Australia%2C behind-the-scenes access at Williams Racing. It's home to two young talents who build the cars%2C not drive them @BBC @ChrisHewgill #F1</p>,-100.00,100.00,-62.40
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,12,0,item-7,NULL,<p>Oh how I love working in Baltimore #trafficJam #howNice</p>,-100.00,100.00,0.00
+1522093193,3c81ecfc54e910befee2d1201d02609a,ScaleNew,29,0,item-24,NULL,<p>Going to the dentist for a root canal this afternoon. Yay%2C I can’t wait. #amazing</p>,-100.00,100.00,49.61
+#
+# Results on Tuesday March 27 2018 09:39:32 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1522143572,0ba41395e874054699a9ead02bc8a394,Form,1,0,intro,NULL,consent,yes
+1522143572,0ba41395e874054699a9ead02bc8a394,Form,1,0,intro,NULL,language,Other
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. html.
+# 9. startValue.
+# 10. endValue.
+# 11. value.
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,3,0,practice,NULL,<div style="width:45em"><blockquote style="text-align:justify"><p style="font-size:14px">This is a practice item%2C so your answer will not be taken into account for the experiment. Your task is to check whether you think the tweet below is ironic or not. If you think it is ironic%2C slide the slider all the way to the right. If you think the tweet is not ironic%2C then slide all the way to the left. If you are not sure%2C or you think the tweet is not fully ironic nor not ironic%2C you can slide the slider to some intermediate position.<br><b>Example 1:</b></p></blockquote> <p style="font-size:14px">"I really love this year’s summer; weeks and weeks of awful weather."</p> <blockquote style="text-align:justify"><p style="font-size:14px">In this example the tweet is ironic%2C so the handle should be placed somewhere on the right side of the slider (in the yellow area).</p></blockquote></div>,-100.00,100.00,100.00
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,4,0,practice,NULL,<div style="width:45em"><blockquote style="text-align:justify"><p style="font-size:14px">This is another practice item%2C so your answer will not be taken into account for the experiment. Again%2C you have to evaluate how ironic the tweet is.<br><b>Example 2:</b></p></blockquote> <p style="font-size:14px"> "happy birthday &lt;3 @grant_evans19 hope u have the best day :) love ya &lt;3"</p> <blockquote style="text-align:justify"><p style="font-size:14px">In this example the tweet is not ironic%2C so the handle should be placed somewhere on the left side of the slider (in the blue area).</p></blockquote></div>,-100.00,100.00,-100.00
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,6,0,item-1,NULL,<p>As always%2C Republicans are the most honest and truly work for the people. The Democrats are liars and thieves. #extremelySerious #lol</p>,-100.00,100.00,100.00
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,8,0,item-3,NULL,<p>I can't believe I did it! All this hard work has paid off. #sportsIllustrated #joking</p>,-100.00,100.00,39.60
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,12,0,item-7,NULL,<p>Oh how I love working in Baltimore #trafficJam #howNice</p>,-100.00,100.00,45.60
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,24,0,item-19,NULL,<p>To our @laiylaa_ &lt;3 We spent two exceptional days with you &amp; we felt a pang of sorrow in our hearts as we left you this morning :'( Once again%2C thank you for having accompanied us in our challenges till the end! Take care! #friend </p>,-100.00,100.00,-100.00
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,19,0,item-14,NULL,<p>Nothing makes me happier than spending time with our youngest grandson%2C Justin. He was named after our son who passed away. He is such a blessing! #InternationalDayOfHappiness</p>,-100.00,100.00,-100.00
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,7,0,item-2,NULL,<p>So I just colored with Eva for an hour. Yeah my summer so far has been so fun :) #sister #holidays #lovepainting</p>,-100.00,100.00,-100.00
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,25,0,item-20,NULL,<p>And he sleeps bless him! #sleepy #myboy #myworld #son #love</p>,-100.00,100.00,-100.00
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,35,0,item-30,NULL,<p>Throwing up at 6:00 am is always fun #yay #wow</p>,-100.00,100.00,100.00
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,33,0,item-28,NULL,<p>@CIA We hear you’re looking for sentiment analysis to detect sarcasm in Tweets. That’ll be easy! #SLA2014 #goodLuck</p>,-100.00,100.00,100.00
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,11,0,item-6,NULL,<p>Republicans are #prolife and pro guns. #constitution #secondAmendment #proud</p>,-100.00,100.00,-100.00
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,31,0,item-26,NULL,<p>I just love it when I speak to folk and they totally ignore me!!! #thankyou #verypolite</p>,-100.00,100.00,100.00
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,10,0,item-5,NULL,<p>I really have fantasssstic friends.. #fight #drunk</p>,-100.00,100.00,33.60
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,14,0,item-9,NULL,<p>Boyfriend of the year award. #breakup #cheater #sad #hurt</p>,-100.00,100.00,48.40
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,30,0,item-25,NULL,<p>Hahaha%2C who needs sleep anyhow. A lie in at the weekend may have been appreciated%2C but I'd much rather be awake right now. #coursenot #letmesleep</p>,-100.00,100.00,100.00
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,28,0,item-23,NULL,<p>Most of us didn't focus in the #ADHD lecture. #lol</p>,-100.00,100.00,100.00
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,17,0,item-12,NULL,<p>#HappyBirthdayEmilyBett @emilybett :) Wishing you all the best you beautiful%2Csweet%2Ctalented%2Camazing… #birthdayGirl</p>,-100.00,100.00,-100.00
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,26,0,item-21,NULL,<p>Glad to see #Hollywood chose not to use evil #guns%2C knives or violence as part of their #profit machine%2C I mean movie. #Deadpool</p>,-100.00,100.00,100.00
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,15,0,item-10,NULL,<p>Monday mornings are my fave :) #run #sunny #beautifulDay</p>,-100.00,100.00,-100.00
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,9,0,item-4,NULL,<p>This play is amazingly good. #Shakespeare #theatre</p>,-100.00,100.00,-100.00
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,32,0,item-27,NULL,<p>I ordered 6 new pairs of shoes...this saving money thing is going pretty good for me #great</p>,-100.00,100.00,100.00
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,18,0,item-13,NULL,<p>Burn Facebook. Burn. I deleted my account permanently 2 years ago and have never been happier. #DeleteFacebook</p>,-100.00,100.00,-100.00
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,23,0,item-18,NULL,<p>With 29:29 left to play in the 1st half%2C the Lady Warriors Soccer Team is on the scoreboard. Taylor Gentry gets one by the keeper for a 1-0 lead. #soccer #LadyWarriors</p>,-100.00,100.00,-100.00
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,20,0,item1-15,NULL,<p>#marchforourlives! &lt;3 Young people have the voice!</p>,-100.00,100.00,-100.00
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,21,0,item-16,NULL,<p>Marchers are chanting “No justice%2C no peace!” #MarchForOurLives @3onyourside</p>,-100.00,100.00,-100.00
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,34,0,item-29,NULL,<p>Just saw a non-smoking sign in the lobby of a tobacco company. #logic</p>,-100.00,100.00,37.60
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,29,0,item-24,NULL,<p>Going to the dentist for a root canal this afternoon. Yay%2C I can’t wait. #amazing</p>,-100.00,100.00,40.40
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,13,0,item-8,NULL,<p>I love this band so much! #awesome #greatperformance </p>,-100.00,100.00,-100.00
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,22,0,item-17,NULL,<p>Behind the #Job: Life as a Formula 1 mechanic. As the new season starts in Australia%2C behind-the-scenes access at Williams Racing. It's home to two young talents who build the cars%2C not drive them @BBC @ChrisHewgill #F1</p>,-100.00,100.00,-96.00
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,27,0,item-22,NULL,<p>Let's have a moment of silence for all those who are stuck in #traffic on their way to #gym this morning.</p>,-100.00,100.00,58.40
+1522143572,0ba41395e874054699a9ead02bc8a394,ScaleNew,16,0,item-11,NULL,<p>So emotional this morning. Saying bye to my best friend again :( @melonhairy and reading the end of book 5 of hp. :( waah! #sad</p>,-100.00,100.00,-27.20
+#
+# Results on Tuesday March 27 2018 10:53:14 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,Form,1,0,intro,NULL,consent,yes
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,Form,1,0,intro,NULL,language,English
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. html.
+# 9. startValue.
+# 10. endValue.
+# 11. value.
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,3,0,practice,NULL,<div style="width:45em"><blockquote style="text-align:justify"><p style="font-size:14px">This is a practice item%2C so your answer will not be taken into account for the experiment. Your task is to check whether you think the tweet below is ironic or not. If you think it is ironic%2C slide the slider all the way to the right. If you think the tweet is not ironic%2C then slide all the way to the left. If you are not sure%2C or you think the tweet is not fully ironic nor not ironic%2C you can slide the slider to some intermediate position.<br><b>Example 1:</b></p></blockquote> <p style="font-size:14px">"I really love this year’s summer; weeks and weeks of awful weather."</p> <blockquote style="text-align:justify"><p style="font-size:14px">In this example the tweet is ironic%2C so the handle should be placed somewhere on the right side of the slider (in the yellow area).</p></blockquote></div>,-100.00,100.00,83.20
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,4,0,practice,NULL,<div style="width:45em"><blockquote style="text-align:justify"><p style="font-size:14px">This is another practice item%2C so your answer will not be taken into account for the experiment. Again%2C you have to evaluate how ironic the tweet is.<br><b>Example 2:</b></p></blockquote> <p style="font-size:14px"> "happy birthday &lt;3 @grant_evans19 hope u have the best day :) love ya &lt;3"</p> <blockquote style="text-align:justify"><p style="font-size:14px">In this example the tweet is not ironic%2C so the handle should be placed somewhere on the left side of the slider (in the blue area).</p></blockquote></div>,-100.00,100.00,-83.60
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,32,0,item-27,NULL,<p>I ordered 6 new pairs of shoes...this saving money thing is going pretty good for me #great</p>,-100.00,100.00,52.40
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,30,0,item-25,NULL,<p>Hahaha%2C who needs sleep anyhow. A lie in at the weekend may have been appreciated%2C but I'd much rather be awake right now. #coursenot #letmesleep</p>,-100.00,100.00,68.40
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,19,0,item-14,NULL,<p>Nothing makes me happier than spending time with our youngest grandson%2C Justin. He was named after our son who passed away. He is such a blessing! #InternationalDayOfHappiness</p>,-100.00,100.00,-76.40
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,33,0,item-28,NULL,<p>@CIA We hear you’re looking for sentiment analysis to detect sarcasm in Tweets. That’ll be easy! #SLA2014 #goodLuck</p>,-100.00,100.00,63.60
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,6,0,item-1,NULL,<p>As always%2C Republicans are the most honest and truly work for the people. The Democrats are liars and thieves. #extremelySerious #lol</p>,-100.00,100.00,68.80
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,11,0,item-6,NULL,<p>Republicans are #prolife and pro guns. #constitution #secondAmendment #proud</p>,-100.00,100.00,-76.00
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,34,0,item-29,NULL,<p>Just saw a non-smoking sign in the lobby of a tobacco company. #logic</p>,-100.00,100.00,-72.80
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,17,0,item-12,NULL,<p>#HappyBirthdayEmilyBett @emilybett :) Wishing you all the best you beautiful%2Csweet%2Ctalented%2Camazing… #birthdayGirl</p>,-100.00,100.00,-74.00
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,12,0,item-7,NULL,<p>Oh how I love working in Baltimore #trafficJam #howNice</p>,-100.00,100.00,70.40
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,10,0,item-5,NULL,<p>I really have fantasssstic friends.. #fight #drunk</p>,-100.00,100.00,83.60
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,35,0,item-30,NULL,<p>Throwing up at 6:00 am is always fun #yay #wow</p>,-100.00,100.00,80.40
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,9,0,item-4,NULL,<p>This play is amazingly good. #Shakespeare #theatre</p>,-100.00,100.00,-85.60
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,31,0,item-26,NULL,<p>I just love it when I speak to folk and they totally ignore me!!! #thankyou #verypolite</p>,-100.00,100.00,86.80
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,23,0,item-18,NULL,<p>With 29:29 left to play in the 1st half%2C the Lady Warriors Soccer Team is on the scoreboard. Taylor Gentry gets one by the keeper for a 1-0 lead. #soccer #LadyWarriors</p>,-100.00,100.00,-81.20
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,24,0,item-19,NULL,<p>To our @laiylaa_ &lt;3 We spent two exceptional days with you &amp; we felt a pang of sorrow in our hearts as we left you this morning :'( Once again%2C thank you for having accompanied us in our challenges till the end! Take care! #friend </p>,-100.00,100.00,-75.20
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,20,0,item1-15,NULL,<p>#marchforourlives! &lt;3 Young people have the voice!</p>,-100.00,100.00,-66.00
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,8,0,item-3,NULL,<p>I can't believe I did it! All this hard work has paid off. #sportsIllustrated #joking</p>,-100.00,100.00,75.60
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,26,0,item-21,NULL,<p>Glad to see #Hollywood chose not to use evil #guns%2C knives or violence as part of their #profit machine%2C I mean movie. #Deadpool</p>,-100.00,100.00,60.00
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,7,0,item-2,NULL,<p>So I just colored with Eva for an hour. Yeah my summer so far has been so fun :) #sister #holidays #lovepainting</p>,-100.00,100.00,-68.40
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,16,0,item-11,NULL,<p>So emotional this morning. Saying bye to my best friend again :( @melonhairy and reading the end of book 5 of hp. :( waah! #sad</p>,-100.00,100.00,-72.00
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,28,0,item-23,NULL,<p>Most of us didn't focus in the #ADHD lecture. #lol</p>,-100.00,100.00,77.20
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,15,0,item-10,NULL,<p>Monday mornings are my fave :) #run #sunny #beautifulDay</p>,-100.00,100.00,-81.20
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,22,0,item-17,NULL,<p>Behind the #Job: Life as a Formula 1 mechanic. As the new season starts in Australia%2C behind-the-scenes access at Williams Racing. It's home to two young talents who build the cars%2C not drive them @BBC @ChrisHewgill #F1</p>,-100.00,100.00,-85.20
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,14,0,item-9,NULL,<p>Boyfriend of the year award. #breakup #cheater #sad #hurt</p>,-100.00,100.00,82.00
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,18,0,item-13,NULL,<p>Burn Facebook. Burn. I deleted my account permanently 2 years ago and have never been happier. #DeleteFacebook</p>,-100.00,100.00,-90.80
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,29,0,item-24,NULL,<p>Going to the dentist for a root canal this afternoon. Yay%2C I can’t wait. #amazing</p>,-100.00,100.00,83.20
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,27,0,item-22,NULL,<p>Let's have a moment of silence for all those who are stuck in #traffic on their way to #gym this morning.</p>,-100.00,100.00,-89.60
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,13,0,item-8,NULL,<p>I love this band so much! #awesome #greatperformance </p>,-100.00,100.00,-89.20
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,25,0,item-20,NULL,<p>And he sleeps bless him! #sleepy #myboy #myworld #son #love</p>,-100.00,100.00,-91.60
+1522147994,4b632e820efcab0ed5e8ef07befcd3c5,ScaleNew,21,0,item-16,NULL,<p>Marchers are chanting “No justice%2C no peace!” #MarchForOurLives @3onyourside</p>,-100.00,100.00,-94.40
+#
+# Results on Tuesday March 27 2018 12:30:10 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+# Design number was non-random = 3
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,Form,1,0,intro,NULL,consent,yes
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,Form,1,0,intro,NULL,language,Other
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. html.
+# 9. startValue.
+# 10. endValue.
+# 11. value.
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,3,0,practice,NULL,<div style="width:45em"><blockquote style="text-align:justify"><p style="font-size:14px">This is a practice item%2C so your answer will not be taken into account for the experiment. Your task is to check whether you think the tweet below is ironic or not. If you think it is ironic%2C slide the slider all the way to the right. If you think the tweet is not ironic%2C then slide all the way to the left. If you are not sure%2C or you think the tweet is not fully ironic nor not ironic%2C you can slide the slider to some intermediate position.<br><b>Example 1:</b></p></blockquote> <p style="font-size:14px">"I really love this year’s summer; weeks and weeks of awful weather."</p> <blockquote style="text-align:justify"><p style="font-size:14px">In this example the tweet is ironic%2C so the handle should be placed somewhere on the right side of the slider (in the yellow area).</p></blockquote></div>,-100.00,100.00,81.60
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,4,0,practice,NULL,<div style="width:45em"><blockquote style="text-align:justify"><p style="font-size:14px">This is another practice item%2C so your answer will not be taken into account for the experiment. Again%2C you have to evaluate how ironic the tweet is.<br><b>Example 2:</b></p></blockquote> <p style="font-size:14px"> "happy birthday &lt;3 @grant_evans19 hope u have the best day :) love ya &lt;3"</p> <blockquote style="text-align:justify"><p style="font-size:14px">In this example the tweet is not ironic%2C so the handle should be placed somewhere on the left side of the slider (in the blue area).</p></blockquote></div>,-100.00,100.00,-82.00
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,21,0,item-16,NULL,<p>Marchers are chanting “No justice%2C no peace!” #MarchForOurLives @3onyourside</p>,-100.00,100.00,-85.60
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,20,0,item1-15,NULL,<p>#marchforourlives! &lt;3 Young people have the voice!</p>,-100.00,100.00,-98.80
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,8,0,item-3,NULL,<p>I can't believe I did it! All this hard work has paid off. #sportsIllustrated #joking</p>,-100.00,100.00,23.60
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,24,0,item-19,NULL,<p>To our @laiylaa_ &lt;3 We spent two exceptional days with you &amp; we felt a pang of sorrow in our hearts as we left you this morning :'( Once again%2C thank you for having accompanied us in our challenges till the end! Take care! #friend </p>,-100.00,100.00,-100.00
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,9,0,item-4,NULL,<p>This play is amazingly good. #Shakespeare #theatre</p>,-100.00,100.00,-100.00
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,15,0,item-10,NULL,<p>Monday mornings are my fave :) #run #sunny #beautifulDay</p>,-100.00,100.00,-100.00
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,12,0,item-7,NULL,<p>Oh how I love working in Baltimore #trafficJam #howNice</p>,-100.00,100.00,100.00
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,35,0,item-30,NULL,<p>Throwing up at 6:00 am is always fun #yay #wow</p>,-100.00,100.00,100.00
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,29,0,item-24,NULL,<p>Going to the dentist for a root canal this afternoon. Yay%2C I can’t wait. #amazing</p>,-100.00,100.00,100.00
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,31,0,item-26,NULL,<p>I just love it when I speak to folk and they totally ignore me!!! #thankyou #verypolite</p>,-100.00,100.00,100.00
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,11,0,item-6,NULL,<p>Republicans are #prolife and pro guns. #constitution #secondAmendment #proud</p>,-100.00,100.00,0.00
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,26,0,item-21,NULL,<p>Glad to see #Hollywood chose not to use evil #guns%2C knives or violence as part of their #profit machine%2C I mean movie. #Deadpool</p>,-100.00,100.00,87.20
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,28,0,item-23,NULL,<p>Most of us didn't focus in the #ADHD lecture. #lol</p>,-100.00,100.00,-58.00
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,33,0,item-28,NULL,<p>@CIA We hear you’re looking for sentiment analysis to detect sarcasm in Tweets. That’ll be easy! #SLA2014 #goodLuck</p>,-100.00,100.00,84.16
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,7,0,item-2,NULL,<p>So I just colored with Eva for an hour. Yeah my summer so far has been so fun :) #sister #holidays #lovepainting</p>,-100.00,100.00,-85.44
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,27,0,item-22,NULL,<p>Let's have a moment of silence for all those who are stuck in #traffic on their way to #gym this morning.</p>,-100.00,100.00,12.56
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,30,0,item-25,NULL,<p>Hahaha%2C who needs sleep anyhow. A lie in at the weekend may have been appreciated%2C but I'd much rather be awake right now. #coursenot #letmesleep</p>,-100.00,100.00,84.16
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,6,0,item-1,NULL,<p>As always%2C Republicans are the most honest and truly work for the people. The Democrats are liars and thieves. #extremelySerious #lol</p>,-100.00,100.00,92.16
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,18,0,item-13,NULL,<p>Burn Facebook. Burn. I deleted my account permanently 2 years ago and have never been happier. #DeleteFacebook</p>,-100.00,100.00,-90.80
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,17,0,item-12,NULL,<p>#HappyBirthdayEmilyBett @emilybett :) Wishing you all the best you beautiful%2Csweet%2Ctalented%2Camazing… #birthdayGirl</p>,-100.00,100.00,-88.40
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,10,0,item-5,NULL,<p>I really have fantasssstic friends.. #fight #drunk</p>,-100.00,100.00,-87.20
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,16,0,item-11,NULL,<p>So emotional this morning. Saying bye to my best friend again :( @melonhairy and reading the end of book 5 of hp. :( waah! #sad</p>,-100.00,100.00,-86.80
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,32,0,item-27,NULL,<p>I ordered 6 new pairs of shoes...this saving money thing is going pretty good for me #great</p>,-100.00,100.00,86.00
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,34,0,item-29,NULL,<p>Just saw a non-smoking sign in the lobby of a tobacco company. #logic</p>,-100.00,100.00,-64.80
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,22,0,item-17,NULL,<p>Behind the #Job: Life as a Formula 1 mechanic. As the new season starts in Australia%2C behind-the-scenes access at Williams Racing. It's home to two young talents who build the cars%2C not drive them @BBC @ChrisHewgill #F1</p>,-100.00,100.00,0.00
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,23,0,item-18,NULL,<p>With 29:29 left to play in the 1st half%2C the Lady Warriors Soccer Team is on the scoreboard. Taylor Gentry gets one by the keeper for a 1-0 lead. #soccer #LadyWarriors</p>,-100.00,100.00,-92.80
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,13,0,item-8,NULL,<p>I love this band so much! #awesome #greatperformance </p>,-100.00,100.00,-93.04
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,14,0,item-9,NULL,<p>Boyfriend of the year award. #breakup #cheater #sad #hurt</p>,-100.00,100.00,100.00
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,25,0,item-20,NULL,<p>And he sleeps bless him! #sleepy #myboy #myworld #son #love</p>,-100.00,100.00,-100.00
+1522153810,c7a1c20e566d3a95d63d23dffecb8bee,ScaleNew,19,0,item-14,NULL,<p>Nothing makes me happier than spending time with our youngest grandson%2C Justin. He was named after our son who passed away. He is such a blessing! #InternationalDayOfHappiness</p>,-100.00,100.00,-100.00
+#
+# Results on Tuesday March 27 2018 16:38:27 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G935F/G935FXXS1DQKH Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/6.4 Chrome/56.0.2924.87 Mobile Safari/537.36
+# Design number was non-random = 4
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1522168708,d6d08e9cb8333229a466091e2c747321,Form,1,0,intro,NULL,consent,yes
+1522168708,d6d08e9cb8333229a466091e2c747321,Form,1,0,intro,NULL,language,Other
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. html.
+# 9. startValue.
+# 10. endValue.
+# 11. value.
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,3,0,practice,NULL,<div style="width:45em"><blockquote style="text-align:justify"><p style="font-size:14px">This is a practice item%2C so your answer will not be taken into account for the experiment. Your task is to check whether you think the tweet below is ironic or not. If you think it is ironic%2C slide the slider all the way to the right. If you think the tweet is not ironic%2C then slide all the way to the left. If you are not sure%2C or you think the tweet is not fully ironic nor not ironic%2C you can slide the slider to some intermediate position.<br><b>Example 1:</b></p></blockquote> <p style="font-size:14px">"I really love this year’s summer; weeks and weeks of awful weather."</p> <blockquote style="text-align:justify"><p style="font-size:14px">In this example the tweet is ironic%2C so the handle should be placed somewhere on the right side of the slider (in the yellow area).</p></blockquote></div>,-100.00,100.00,96.00
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,4,0,practice,NULL,<div style="width:45em"><blockquote style="text-align:justify"><p style="font-size:14px">This is another practice item%2C so your answer will not be taken into account for the experiment. Again%2C you have to evaluate how ironic the tweet is.<br><b>Example 2:</b></p></blockquote> <p style="font-size:14px"> "happy birthday &lt;3 @grant_evans19 hope u have the best day :) love ya &lt;3"</p> <blockquote style="text-align:justify"><p style="font-size:14px">In this example the tweet is not ironic%2C so the handle should be placed somewhere on the left side of the slider (in the blue area).</p></blockquote></div>,-100.00,100.00,-95.60
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,20,0,item1-15,NULL,<p>#marchforourlives! &lt;3 Young people have the voice!</p>,-100.00,100.00,-42.00
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,21,0,item-16,NULL,<p>Marchers are chanting “No justice%2C no peace!” #MarchForOurLives @3onyourside</p>,-100.00,100.00,-96.00
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,8,0,item-3,NULL,<p>I can't believe I did it! All this hard work has paid off. #sportsIllustrated #joking</p>,-100.00,100.00,93.20
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,29,0,item-24,NULL,<p>Going to the dentist for a root canal this afternoon. Yay%2C I can’t wait. #amazing</p>,-100.00,100.00,94.40
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,6,0,item-1,NULL,<p>As always%2C Republicans are the most honest and truly work for the people. The Democrats are liars and thieves. #extremelySerious #lol</p>,-100.00,100.00,99.60
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,31,0,item-26,NULL,<p>I just love it when I speak to folk and they totally ignore me!!! #thankyou #verypolite</p>,-100.00,100.00,96.00
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,35,0,item-30,NULL,<p>Throwing up at 6:00 am is always fun #yay #wow</p>,-100.00,100.00,98.40
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,16,0,item-11,NULL,<p>So emotional this morning. Saying bye to my best friend again :( @melonhairy and reading the end of book 5 of hp. :( waah! #sad</p>,-100.00,100.00,-96.00
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,30,0,item-25,NULL,<p>Hahaha%2C who needs sleep anyhow. A lie in at the weekend may have been appreciated%2C but I'd much rather be awake right now. #coursenot #letmesleep</p>,-100.00,100.00,97.20
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,12,0,item-7,NULL,<p>Oh how I love working in Baltimore #trafficJam #howNice</p>,-100.00,100.00,98.40
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,32,0,item-27,NULL,<p>I ordered 6 new pairs of shoes...this saving money thing is going pretty good for me #great</p>,-100.00,100.00,99.60
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,9,0,item-4,NULL,<p>This play is amazingly good. #Shakespeare #theatre</p>,-100.00,100.00,-95.60
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,17,0,item-12,NULL,<p>#HappyBirthdayEmilyBett @emilybett :) Wishing you all the best you beautiful%2Csweet%2Ctalented%2Camazing… #birthdayGirl</p>,-100.00,100.00,-96.80
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,11,0,item-6,NULL,<p>Republicans are #prolife and pro guns. #constitution #secondAmendment #proud</p>,-100.00,100.00,-37.60
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,18,0,item-13,NULL,<p>Burn Facebook. Burn. I deleted my account permanently 2 years ago and have never been happier. #DeleteFacebook</p>,-100.00,100.00,-95.60
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,26,0,item-21,NULL,<p>Glad to see #Hollywood chose not to use evil #guns%2C knives or violence as part of their #profit machine%2C I mean movie. #Deadpool</p>,-100.00,100.00,-53.20
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,10,0,item-5,NULL,<p>I really have fantasssstic friends.. #fight #drunk</p>,-100.00,100.00,98.40
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,7,0,item-2,NULL,<p>So I just colored with Eva for an hour. Yeah my summer so far has been so fun :) #sister #holidays #lovepainting</p>,-100.00,100.00,-100.00
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,23,0,item-18,NULL,<p>With 29:29 left to play in the 1st half%2C the Lady Warriors Soccer Team is on the scoreboard. Taylor Gentry gets one by the keeper for a 1-0 lead. #soccer #LadyWarriors</p>,-100.00,100.00,0.00
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,13,0,item-8,NULL,<p>I love this band so much! #awesome #greatperformance </p>,-100.00,100.00,-97.60
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,14,0,item-9,NULL,<p>Boyfriend of the year award. #breakup #cheater #sad #hurt</p>,-100.00,100.00,99.60
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,22,0,item-17,NULL,<p>Behind the #Job: Life as a Formula 1 mechanic. As the new season starts in Australia%2C behind-the-scenes access at Williams Racing. It's home to two young talents who build the cars%2C not drive them @BBC @ChrisHewgill #F1</p>,-100.00,100.00,0.00
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,25,0,item-20,NULL,<p>And he sleeps bless him! #sleepy #myboy #myworld #son #love</p>,-100.00,100.00,-94.40
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,19,0,item-14,NULL,<p>Nothing makes me happier than spending time with our youngest grandson%2C Justin. He was named after our son who passed away. He is such a blessing! #InternationalDayOfHappiness</p>,-100.00,100.00,-98.80
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,15,0,item-10,NULL,<p>Monday mornings are my fave :) #run #sunny #beautifulDay</p>,-100.00,100.00,-96.00
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,24,0,item-19,NULL,<p>To our @laiylaa_ &lt;3 We spent two exceptional days with you &amp; we felt a pang of sorrow in our hearts as we left you this morning :'( Once again%2C thank you for having accompanied us in our challenges till the end! Take care! #friend </p>,-100.00,100.00,-96.00
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,27,0,item-22,NULL,<p>Let's have a moment of silence for all those who are stuck in #traffic on their way to #gym this morning.</p>,-100.00,100.00,96.00
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,28,0,item-23,NULL,<p>Most of us didn't focus in the #ADHD lecture. #lol</p>,-100.00,100.00,-100.00
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,33,0,item-28,NULL,<p>@CIA We hear you’re looking for sentiment analysis to detect sarcasm in Tweets. That’ll be easy! #SLA2014 #goodLuck</p>,-100.00,100.00,98.40
+1522168708,d6d08e9cb8333229a466091e2c747321,ScaleNew,34,0,item-29,NULL,<p>Just saw a non-smoking sign in the lobby of a tobacco company. #logic</p>,-100.00,100.00,97.20
+#
+# Results on Tuesday March 27 2018 17:33:07 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 7.0; PRA-LX1 Build/HUAWEIPRA-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36
+# Design number was non-random = 5
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1522171987,e0d60ea46dcc4838b51812aa661197a2,Form,1,0,intro,NULL,consent,yes
+1522171987,e0d60ea46dcc4838b51812aa661197a2,Form,1,0,intro,NULL,language,Other
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. html.
+# 9. startValue.
+# 10. endValue.
+# 11. value.
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,3,0,practice,NULL,<div style="width:45em"><blockquote style="text-align:justify"><p style="font-size:14px">This is a practice item%2C so your answer will not be taken into account for the experiment. Your task is to check whether you think the tweet below is ironic or not. If you think it is ironic%2C slide the slider all the way to the right. If you think the tweet is not ironic%2C then slide all the way to the left. If you are not sure%2C or you think the tweet is not fully ironic nor not ironic%2C you can slide the slider to some intermediate position.<br><b>Example 1:</b></p></blockquote> <p style="font-size:14px">"I really love this year’s summer; weeks and weeks of awful weather."</p> <blockquote style="text-align:justify"><p style="font-size:14px">In this example the tweet is ironic%2C so the handle should be placed somewhere on the right side of the slider (in the yellow area).</p></blockquote></div>,-100.00,100.00,-100.00
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,4,0,practice,NULL,<div style="width:45em"><blockquote style="text-align:justify"><p style="font-size:14px">This is another practice item%2C so your answer will not be taken into account for the experiment. Again%2C you have to evaluate how ironic the tweet is.<br><b>Example 2:</b></p></blockquote> <p style="font-size:14px"> "happy birthday &lt;3 @grant_evans19 hope u have the best day :) love ya &lt;3"</p> <blockquote style="text-align:justify"><p style="font-size:14px">In this example the tweet is not ironic%2C so the handle should be placed somewhere on the left side of the slider (in the blue area).</p></blockquote></div>,-100.00,100.00,-100.00
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,34,0,item-29,NULL,<p>Just saw a non-smoking sign in the lobby of a tobacco company. #logic</p>,-100.00,100.00,50.40
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,27,0,item-22,NULL,<p>Let's have a moment of silence for all those who are stuck in #traffic on their way to #gym this morning.</p>,-100.00,100.00,92.80
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,32,0,item-27,NULL,<p>I ordered 6 new pairs of shoes...this saving money thing is going pretty good for me #great</p>,-100.00,100.00,88.40
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,6,0,item-1,NULL,<p>As always%2C Republicans are the most honest and truly work for the people. The Democrats are liars and thieves. #extremelySerious #lol</p>,-100.00,100.00,80.00
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,31,0,item-26,NULL,<p>I just love it when I speak to folk and they totally ignore me!!! #thankyou #verypolite</p>,-100.00,100.00,-70.40
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,35,0,item-30,NULL,<p>Throwing up at 6:00 am is always fun #yay #wow</p>,-100.00,100.00,-60.80
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,25,0,item-20,NULL,<p>And he sleeps bless him! #sleepy #myboy #myworld #son #love</p>,-100.00,100.00,-88.00
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,24,0,item-19,NULL,<p>To our @laiylaa_ &lt;3 We spent two exceptional days with you &amp; we felt a pang of sorrow in our hearts as we left you this morning :'( Once again%2C thank you for having accompanied us in our challenges till the end! Take care! #friend </p>,-100.00,100.00,-96.00
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,7,0,item-2,NULL,<p>So I just colored with Eva for an hour. Yeah my summer so far has been so fun :) #sister #holidays #lovepainting</p>,-100.00,100.00,86.40
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,29,0,item-24,NULL,<p>Going to the dentist for a root canal this afternoon. Yay%2C I can’t wait. #amazing</p>,-100.00,100.00,98.40
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,9,0,item-4,NULL,<p>This play is amazingly good. #Shakespeare #theatre</p>,-100.00,100.00,-92.40
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,23,0,item-18,NULL,<p>With 29:29 left to play in the 1st half%2C the Lady Warriors Soccer Team is on the scoreboard. Taylor Gentry gets one by the keeper for a 1-0 lead. #soccer #LadyWarriors</p>,-100.00,100.00,-90.00
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,20,0,item1-15,NULL,<p>#marchforourlives! &lt;3 Young people have the voice!</p>,-100.00,100.00,-97.60
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,12,0,item-7,NULL,<p>Oh how I love working in Baltimore #trafficJam #howNice</p>,-100.00,100.00,87.60
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,30,0,item-25,NULL,<p>Hahaha%2C who needs sleep anyhow. A lie in at the weekend may have been appreciated%2C but I'd much rather be awake right now. #coursenot #letmesleep</p>,-100.00,100.00,74.40
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,16,0,item-11,NULL,<p>So emotional this morning. Saying bye to my best friend again :( @melonhairy and reading the end of book 5 of hp. :( waah! #sad</p>,-100.00,100.00,-71.60
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,14,0,item-9,NULL,<p>Boyfriend of the year award. #breakup #cheater #sad #hurt</p>,-100.00,100.00,90.80
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,18,0,item-13,NULL,<p>Burn Facebook. Burn. I deleted my account permanently 2 years ago and have never been happier. #DeleteFacebook</p>,-100.00,100.00,-83.60
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,11,0,item-6,NULL,<p>Republicans are #prolife and pro guns. #constitution #secondAmendment #proud</p>,-100.00,100.00,-83.60
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,17,0,item-12,NULL,<p>#HappyBirthdayEmilyBett @emilybett :) Wishing you all the best you beautiful%2Csweet%2Ctalented%2Camazing… #birthdayGirl</p>,-100.00,100.00,-85.60
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,26,0,item-21,NULL,<p>Glad to see #Hollywood chose not to use evil #guns%2C knives or violence as part of their #profit machine%2C I mean movie. #Deadpool</p>,-100.00,100.00,88.40
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,19,0,item-14,NULL,<p>Nothing makes me happier than spending time with our youngest grandson%2C Justin. He was named after our son who passed away. He is such a blessing! #InternationalDayOfHappiness</p>,-100.00,100.00,-95.60
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,21,0,item-16,NULL,<p>Marchers are chanting “No justice%2C no peace!” #MarchForOurLives @3onyourside</p>,-100.00,100.00,97.20
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,33,0,item-28,NULL,<p>@CIA We hear you’re looking for sentiment analysis to detect sarcasm in Tweets. That’ll be easy! #SLA2014 #goodLuck</p>,-100.00,100.00,85.60
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,10,0,item-5,NULL,<p>I really have fantasssstic friends.. #fight #drunk</p>,-100.00,100.00,100.00
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,13,0,item-8,NULL,<p>I love this band so much! #awesome #greatperformance </p>,-100.00,100.00,-95.60
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,8,0,item-3,NULL,<p>I can't believe I did it! All this hard work has paid off. #sportsIllustrated #joking</p>,-100.00,100.00,100.00
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,22,0,item-17,NULL,<p>Behind the #Job: Life as a Formula 1 mechanic. As the new season starts in Australia%2C behind-the-scenes access at Williams Racing. It's home to two young talents who build the cars%2C not drive them @BBC @ChrisHewgill #F1</p>,-100.00,100.00,-100.00
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,28,0,item-23,NULL,<p>Most of us didn't focus in the #ADHD lecture. #lol</p>,-100.00,100.00,95.20
+1522171987,e0d60ea46dcc4838b51812aa661197a2,ScaleNew,15,0,item-10,NULL,<p>Monday mornings are my fave :) #run #sunny #beautifulDay</p>,-100.00,100.00,-100.00
+#
+# Results on Wednesday March 28 2018 10:39:19 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+# Design number was non-random = 6
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1522233560,04af77e8d600912fb02cbadee29487de,Form,1,0,intro,NULL,consent,yes
+1522233560,04af77e8d600912fb02cbadee29487de,Form,1,0,intro,NULL,language,Other
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. html.
+# 9. startValue.
+# 10. endValue.
+# 11. value.
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,3,0,practice,NULL,<div style="width:45em"><blockquote style="text-align:justify"><p style="font-size:14px">This is a practice item%2C so your answer will not be taken into account for the experiment. Your task is to check whether you think the tweet below is ironic or not. If you think it is ironic%2C slide the slider all the way to the right. If you think the tweet is not ironic%2C then slide all the way to the left. If you are not sure%2C or you think the tweet is not fully ironic nor not ironic%2C you can slide the slider to some intermediate position.<br><b>Example 1:</b></p></blockquote> <p style="font-size:14px">"I really love this year’s summer; weeks and weeks of awful weather."</p> <blockquote style="text-align:justify"><p style="font-size:14px">In this example the tweet is ironic%2C so the handle should be placed somewhere on the right side of the slider (in the yellow area).</p></blockquote></div>,-100.00,100.00,100.00
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,4,0,practice,NULL,<div style="width:45em"><blockquote style="text-align:justify"><p style="font-size:14px">This is another practice item%2C so your answer will not be taken into account for the experiment. Again%2C you have to evaluate how ironic the tweet is.<br><b>Example 2:</b></p></blockquote> <p style="font-size:14px"> "happy birthday &lt;3 @grant_evans19 hope u have the best day :) love ya &lt;3"</p> <blockquote style="text-align:justify"><p style="font-size:14px">In this example the tweet is not ironic%2C so the handle should be placed somewhere on the left side of the slider (in the blue area).</p></blockquote></div>,-100.00,100.00,-99.20
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,23,0,item-18,NULL,<p>With 29:29 left to play in the 1st half%2C the Lady Warriors Soccer Team is on the scoreboard. Taylor Gentry gets one by the keeper for a 1-0 lead. #soccer #LadyWarriors</p>,-100.00,100.00,-100.00
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,15,0,item-10,NULL,<p>Monday mornings are my fave :) #run #sunny #beautifulDay</p>,-100.00,100.00,-93.60
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,32,0,item-27,NULL,<p>I ordered 6 new pairs of shoes...this saving money thing is going pretty good for me #great</p>,-100.00,100.00,99.60
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,21,0,item-16,NULL,<p>Marchers are chanting “No justice%2C no peace!” #MarchForOurLives @3onyourside</p>,-100.00,100.00,-100.00
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,24,0,item-19,NULL,<p>To our @laiylaa_ &lt;3 We spent two exceptional days with you &amp; we felt a pang of sorrow in our hearts as we left you this morning :'( Once again%2C thank you for having accompanied us in our challenges till the end! Take care! #friend </p>,-100.00,100.00,-100.00
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,19,0,item-14,NULL,<p>Nothing makes me happier than spending time with our youngest grandson%2C Justin. He was named after our son who passed away. He is such a blessing! #InternationalDayOfHappiness</p>,-100.00,100.00,-100.00
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,20,0,item1-15,NULL,<p>#marchforourlives! &lt;3 Young people have the voice!</p>,-100.00,100.00,-100.00
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,34,0,item-29,NULL,<p>Just saw a non-smoking sign in the lobby of a tobacco company. #logic</p>,-100.00,100.00,100.00
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,29,0,item-24,NULL,<p>Going to the dentist for a root canal this afternoon. Yay%2C I can’t wait. #amazing</p>,-100.00,100.00,100.00
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,35,0,item-30,NULL,<p>Throwing up at 6:00 am is always fun #yay #wow</p>,-100.00,100.00,100.00
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,13,0,item-8,NULL,<p>I love this band so much! #awesome #greatperformance </p>,-100.00,100.00,-100.00
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,7,0,item-2,NULL,<p>So I just colored with Eva for an hour. Yeah my summer so far has been so fun :) #sister #holidays #lovepainting</p>,-100.00,100.00,-100.00
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,26,0,item-21,NULL,<p>Glad to see #Hollywood chose not to use evil #guns%2C knives or violence as part of their #profit machine%2C I mean movie. #Deadpool</p>,-100.00,100.00,34.00
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,6,0,item-1,NULL,<p>As always%2C Republicans are the most honest and truly work for the people. The Democrats are liars and thieves. #extremelySerious #lol</p>,-100.00,100.00,100.00
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,17,0,item-12,NULL,<p>#HappyBirthdayEmilyBett @emilybett :) Wishing you all the best you beautiful%2Csweet%2Ctalented%2Camazing… #birthdayGirl</p>,-100.00,100.00,-100.00
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,30,0,item-25,NULL,<p>Hahaha%2C who needs sleep anyhow. A lie in at the weekend may have been appreciated%2C but I'd much rather be awake right now. #coursenot #letmesleep</p>,-100.00,100.00,100.00
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,18,0,item-13,NULL,<p>Burn Facebook. Burn. I deleted my account permanently 2 years ago and have never been happier. #DeleteFacebook</p>,-100.00,100.00,-100.00
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,31,0,item-26,NULL,<p>I just love it when I speak to folk and they totally ignore me!!! #thankyou #verypolite</p>,-100.00,100.00,100.00
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,22,0,item-17,NULL,<p>Behind the #Job: Life as a Formula 1 mechanic. As the new season starts in Australia%2C behind-the-scenes access at Williams Racing. It's home to two young talents who build the cars%2C not drive them @BBC @ChrisHewgill #F1</p>,-100.00,100.00,-100.00
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,28,0,item-23,NULL,<p>Most of us didn't focus in the #ADHD lecture. #lol</p>,-100.00,100.00,100.00
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,12,0,item-7,NULL,<p>Oh how I love working in Baltimore #trafficJam #howNice</p>,-100.00,100.00,85.60
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,14,0,item-9,NULL,<p>Boyfriend of the year award. #breakup #cheater #sad #hurt</p>,-100.00,100.00,100.00
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,11,0,item-6,NULL,<p>Republicans are #prolife and pro guns. #constitution #secondAmendment #proud</p>,-100.00,100.00,0.00
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,25,0,item-20,NULL,<p>And he sleeps bless him! #sleepy #myboy #myworld #son #love</p>,-100.00,100.00,1.20
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,33,0,item-28,NULL,<p>@CIA We hear you’re looking for sentiment analysis to detect sarcasm in Tweets. That’ll be easy! #SLA2014 #goodLuck</p>,-100.00,100.00,100.00
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,9,0,item-4,NULL,<p>This play is amazingly good. #Shakespeare #theatre</p>,-100.00,100.00,-99.60
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,8,0,item-3,NULL,<p>I can't believe I did it! All this hard work has paid off. #sportsIllustrated #joking</p>,-100.00,100.00,100.00
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,10,0,item-5,NULL,<p>I really have fantasssstic friends.. #fight #drunk</p>,-100.00,100.00,0.00
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,16,0,item-11,NULL,<p>So emotional this morning. Saying bye to my best friend again :( @melonhairy and reading the end of book 5 of hp. :( waah! #sad</p>,-100.00,100.00,-100.00
+1522233560,04af77e8d600912fb02cbadee29487de,ScaleNew,27,0,item-22,NULL,<p>Let's have a moment of silence for all those who are stuck in #traffic on their way to #gym this morning.</p>,-100.00,100.00,65.20
+#
+# Results on Wednesday March 28 2018 18:54:20 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+# Design number was non-random = 7
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,Form,1,0,intro,NULL,consent,yes
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,Form,1,0,intro,NULL,language,English
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. html.
+# 9. startValue.
+# 10. endValue.
+# 11. value.
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,3,0,practice,NULL,<div style="width:45em"><blockquote style="text-align:justify"><p style="font-size:14px">This is a practice item%2C so your answer will not be taken into account for the experiment. Your task is to check whether you think the tweet below is ironic or not. If you think it is ironic%2C slide the slider all the way to the right. If you think the tweet is not ironic%2C then slide all the way to the left. If you are not sure%2C or you think the tweet is not fully ironic nor not ironic%2C you can slide the slider to some intermediate position.<br><b>Example 1:</b></p></blockquote> <p style="font-size:14px">"I really love this yearâ€™s summer; weeks and weeks of awful weather."</p> <blockquote style="text-align:justify"><p style="font-size:14px">In this example the tweet is ironic%2C so the handle should be placed somewhere on the right side of the slider (in the yellow area).</p></blockquote></div>,-100.00,100.00,100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,4,0,practice,NULL,<div style="width:45em"><blockquote style="text-align:justify"><p style="font-size:14px">This is another practice item%2C so your answer will not be taken into account for the experiment. Again%2C you have to evaluate how ironic the tweet is.<br><b>Example 2:</b></p></blockquote> <p style="font-size:14px"> "happy birthday &lt;3 @grant_evans19 hope u have the best day :) love ya &lt;3"</p> <blockquote style="text-align:justify"><p style="font-size:14px">In this example the tweet is not ironic%2C so the handle should be placed somewhere on the left side of the slider (in the blue area).</p></blockquote></div>,-100.00,100.00,-100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,19,0,item-14,NULL,<p>Nothing makes me happier than spending time with our youngest grandson%2C Justin. He was named after our son who passed away. He is such a blessing! &amp;#35;InternationalDayOfHappiness</p>,-100.00,100.00,-100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,15,0,item-10,NULL,<p>Monday mornings are my fave :) &amp;#35;run &amp;#35;sunny &amp;#35;beautifulDay</p>,-100.00,100.00,-100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,20,0,item1-15,NULL,<p>&amp;#35;marchforourlives! &lt;3 Young people have the voice!</p>,-100.00,100.00,-100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,33,0,item-28,NULL,<p>@CIA We hear youâ€™re looking for sentiment analysis to detect sarcasm in Tweets. Thatâ€™ll be easy! #SLA2014 #goodLuck</p>,-100.00,100.00,100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,35,0,item-30,NULL,<p>Throwing up at 6:00 am is always fun #yay #wow</p>,-100.00,100.00,100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,34,0,item-29,NULL,<p>Just saw a non-smoking sign in the lobby of a tobacco company. #logic</p>,-100.00,100.00,100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,12,0,item-7,NULL,<p>Oh how I love working in Baltimore &amp;#35;trafficJam &amp;#35;howNice</p>,-100.00,100.00,100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,18,0,item-13,NULL,<p>Burn Facebook. Burn. I deleted my account permanently 2 years ago and have never been happier. &amp;#35;DeleteFacebook</p>,-100.00,100.00,-100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,21,0,item-16,NULL,<p>Marchers are chanting â€œNo justice%2C no peace!â€ &amp;#35;MarchForOurLives @3onyourside</p>,-100.00,100.00,-100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,7,0,item-2,NULL,<p>So I just colored with Eva for an hour. Yeah my summer so far has been so fun :) &amp;#35;sister &amp;#35;holidays &amp;#35;lovepainting</p>,-100.00,100.00,-100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,13,0,item-8,NULL,<p>I love this band so much! &amp;#35;awesome &amp;#35;greatperformance </p>,-100.00,100.00,-100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,14,0,item-9,NULL,<p>Boyfriend of the year award. &amp;#35;breakup &amp;#35;cheater &amp;#35;sad &amp;#35;hurt</p>,-100.00,100.00,100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,8,0,item-3,NULL,<p>I can't believe I did it! All this hard work has paid off. &amp;#35;sportsIllustrated &amp;#35;joking</p>,-100.00,100.00,-100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,9,0,item-4,NULL,<p>This play is amazingly good. &amp;#35;Shakespeare &amp;#35;theatre</p>,-100.00,100.00,-100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,10,0,item-5,NULL,<p>I really have fantasssstic friends.. &amp;#35;fight &amp;#35;drunk</p>,-100.00,100.00,100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,24,0,item-19,NULL,<p>To our @laiylaa_ &lt;3 We spent two exceptional days with you &amp; we felt a pang of sorrow in our hearts as we left you this morning :'( Once again%2C thank you for having accompanied us in our challenges till the end! Take care! &amp;#35;friend </p>,-100.00,100.00,-100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,29,0,item-24,NULL,<p>Going to the dentist for a root canal this afternoon. Yay%2C I canâ€™t wait. #amazing</p>,-100.00,100.00,98.40
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,27,0,item-22,NULL,<p>Let's have a moment of silence for all those who are stuck in #traffic on their way to #gym this morning.</p>,-100.00,100.00,-100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,16,0,item-11,NULL,<p>So emotional this morning. Saying bye to my best friend again :( @melonhairy and reading the end of book 5 of hp. :( waah! &amp;#35;sad</p>,-100.00,100.00,-100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,11,0,item-6,NULL,<p>Republicans are &amp;#35;prolife and pro guns. &amp;#35;constitution &amp;#35;secondAmendment &amp;#35;proud</p>,-100.00,100.00,-100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,22,0,item-17,NULL,<p>Behind the &amp;#35;Job: Life as a Formula 1 mechanic. As the new season starts in Australia%2C behind-the-scenes access at Williams Racing. It's home to two young talents who build the cars%2C not drive them @BBC @ChrisHewgill &amp;#35;F1</p>,-100.00,100.00,-100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,25,0,item-20,NULL,<p>And he sleeps bless him! &amp;#35;sleepy &amp;#35;myboy #myworld #son #love</p>,-100.00,100.00,-100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,31,0,item-26,NULL,<p>I just love it when I speak to folk and they totally ignore me!!! #thankyou #verypolite</p>,-100.00,100.00,100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,28,0,item-23,NULL,<p>Most of us didn't focus in the #ADHD lecture. #lol</p>,-100.00,100.00,100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,32,0,item-27,NULL,<p>I ordered 6 new pairs of shoes...this saving money thing is going pretty good for me #great</p>,-100.00,100.00,100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,6,0,item-1,NULL,<p>As always%2C Republicans are the most honest and truly work for the people. The Democrats are liars and thieves. &amp;#35;extremelySerious &amp;#35;lol</p>,-100.00,100.00,100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,17,0,item-12,NULL,<p>&amp;#35;HappyBirthdayEmilyBett @emilybett :) Wishing you all the best you beautiful%2Csweet%2Ctalented%2Camazingâ€¦ &amp;#35;birthdayGirl</p>,-100.00,100.00,-100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,26,0,item-21,NULL,<p>Glad to see #Hollywood chose not to use evil #guns%2C knives or violence as part of their #profit machine%2C I mean movie. #Deadpool</p>,-100.00,100.00,100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,23,0,item-18,NULL,<p>With 29:29 left to play in the 1st half%2C the Lady Warriors Soccer Team is on the scoreboard. Taylor Gentry gets one by the keeper for a 1-0 lead. &amp;#35;soccer &amp;#35;LadyWarriors</p>,-100.00,100.00,-100.00
+1522263261,ecbd151d77aaf778a7126df5e8fda78f,ScaleNew,30,0,item-25,NULL,<p>Hahaha%2C who needs sleep anyhow. A lie in at the weekend may have been appreciated%2C but I'd much rather be awake right now. #coursenot #letmesleep</p>,-100.00,100.00,100.00
+#
+# Results on Friday March 30 2018 19:33:55 UTC.
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_1 like Mac OS X) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0 Mobile/15C153 Safari/604.1
+# Design number was non-random = 8
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,Form,1,0,intro,NULL,consent,yes
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,Form,1,0,intro,NULL,language,Other
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. html.
+# 9. startValue.
+# 10. endValue.
+# 11. value.
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,3,0,practice,NULL,<div style="width:45em"><blockquote style="text-align:justify"><p style="font-size:14px">This is a practice item%2C so your answer will not be taken into account for the experiment. Your task is to check whether you think the tweet below is ironic or not. If you think it is ironic%2C slide the slider all the way to the right. If you think the tweet is not ironic%2C then slide all the way to the left. If you are not sure%2C or you think the tweet is not fully ironic nor not ironic%2C you can slide the slider to some intermediate position.<br><b>Example 1:</b></p></blockquote> <p style="font-size:14px">"I really love this yearâ€™s summer; weeks and weeks of awful weather."</p> <blockquote style="text-align:justify"><p style="font-size:14px">In this example the tweet is ironic%2C so the handle should be placed somewhere on the right side of the slider (in the yellow area).</p></blockquote></div>,-100.00,100.00,-92.00
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,4,0,practice,NULL,<div style="width:45em"><blockquote style="text-align:justify"><p style="font-size:14px">This is another practice item%2C so your answer will not be taken into account for the experiment. Again%2C you have to evaluate how ironic the tweet is.<br><b>Example 2:</b></p></blockquote> <p style="font-size:14px"> "happy birthday &lt;3 @grant_evans19 hope u have the best day :) love ya &lt;3"</p> <blockquote style="text-align:justify"><p style="font-size:14px">In this example the tweet is not ironic%2C so the handle should be placed somewhere on the left side of the slider (in the blue area).</p></blockquote></div>,-100.00,100.00,-87.20
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,12,0,item-7,NULL,<p>Oh how I love working in Baltimore &amp;#35;trafficJam &amp;#35;howNice</p>,-100.00,100.00,96.00
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,26,0,item-21,NULL,<p>Glad to see #Hollywood chose not to use evil #guns%2C knives or violence as part of their #profit machine%2C I mean movie. #Deadpool</p>,-100.00,100.00,88.41
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,15,0,item-10,NULL,<p>Monday mornings are my fave :) &amp;#35;run &amp;#35;sunny &amp;#35;beautifulDay</p>,-100.00,100.00,-100.00
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,14,0,item-9,NULL,<p>Boyfriend of the year award. &amp;#35;breakup &amp;#35;cheater &amp;#35;sad &amp;#35;hurt</p>,-100.00,100.00,83.61
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,11,0,item-6,NULL,<p>Republicans are &amp;#35;prolife and pro guns. &amp;#35;constitution &amp;#35;secondAmendment &amp;#35;proud</p>,-100.00,100.00,-98.40
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,21,0,item-16,NULL,<p>Marchers are chanting â€œNo justice%2C no peace!â€ &amp;#35;MarchForOurLives @3onyourside</p>,-100.00,100.00,-98.79
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,24,0,item-19,NULL,<p>To our @laiylaa_ &lt;3 We spent two exceptional days with you &amp; we felt a pang of sorrow in our hearts as we left you this morning :'( Once again%2C thank you for having accompanied us in our challenges till the end! Take care! &amp;#35;friend </p>,-100.00,100.00,-94.00
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,17,0,item-12,NULL,<p>&amp;#35;HappyBirthdayEmilyBett @emilybett :) Wishing you all the best you beautiful%2Csweet%2Ctalented%2Camazingâ€¦ &amp;#35;birthdayGirl</p>,-100.00,100.00,-100.00
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,6,0,item-1,NULL,<p>As always%2C Republicans are the most honest and truly work for the people. The Democrats are liars and thieves. &amp;#35;extremelySerious &amp;#35;lol</p>,-100.00,100.00,88.00
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,25,0,item-20,NULL,<p>And he sleeps bless him! &amp;#35;sleepy &amp;#35;myboy #myworld #son #love</p>,-100.00,100.00,-99.99
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,16,0,item-11,NULL,<p>So emotional this morning. Saying bye to my best friend again :( @melonhairy and reading the end of book 5 of hp. :( waah! &amp;#35;sad</p>,-100.00,100.00,-88.40
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,20,0,item1-15,NULL,<p>&amp;#35;marchforourlives! &lt;3 Young people have the voice!</p>,-100.00,100.00,-91.20
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,8,0,item-3,NULL,<p>I can't believe I did it! All this hard work has paid off. &amp;#35;sportsIllustrated &amp;#35;joking</p>,-100.00,100.00,78.00
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,31,0,item-26,NULL,<p>I just love it when I speak to folk and they totally ignore me!!! #thankyou #verypolite</p>,-100.00,100.00,89.60
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,13,0,item-8,NULL,<p>I love this band so much! &amp;#35;awesome &amp;#35;greatperformance </p>,-100.00,100.00,-100.00
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,33,0,item-28,NULL,<p>@CIA We hear youâ€™re looking for sentiment analysis to detect sarcasm in Tweets. Thatâ€™ll be easy! #SLA2014 #goodLuck</p>,-100.00,100.00,-100.00
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,28,0,item-23,NULL,<p>Most of us didn't focus in the #ADHD lecture. #lol</p>,-100.00,100.00,86.40
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,34,0,item-29,NULL,<p>Just saw a non-smoking sign in the lobby of a tobacco company. #logic</p>,-100.00,100.00,87.20
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,19,0,item-14,NULL,<p>Nothing makes me happier than spending time with our youngest grandson%2C Justin. He was named after our son who passed away. He is such a blessing! &amp;#35;InternationalDayOfHappiness</p>,-100.00,100.00,-100.00
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,9,0,item-4,NULL,<p>This play is amazingly good. &amp;#35;Shakespeare &amp;#35;theatre</p>,-100.00,100.00,-90.80
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,35,0,item-30,NULL,<p>Throwing up at 6:00 am is always fun #yay #wow</p>,-100.00,100.00,90.00
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,22,0,item-17,NULL,<p>Behind the &amp;#35;Job: Life as a Formula 1 mechanic. As the new season starts in Australia%2C behind-the-scenes access at Williams Racing. It's home to two young talents who build the cars%2C not drive them @BBC @ChrisHewgill &amp;#35;F1</p>,-100.00,100.00,-100.00
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,10,0,item-5,NULL,<p>I really have fantasssstic friends.. &amp;#35;fight &amp;#35;drunk</p>,-100.00,100.00,87.20
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,27,0,item-22,NULL,<p>Let's have a moment of silence for all those who are stuck in #traffic on their way to #gym this morning.</p>,-100.00,100.00,94.80
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,30,0,item-25,NULL,<p>Hahaha%2C who needs sleep anyhow. A lie in at the weekend may have been appreciated%2C but I'd much rather be awake right now. #coursenot #letmesleep</p>,-100.00,100.00,87.20
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,23,0,item-18,NULL,<p>With 29:29 left to play in the 1st half%2C the Lady Warriors Soccer Team is on the scoreboard. Taylor Gentry gets one by the keeper for a 1-0 lead. &amp;#35;soccer &amp;#35;LadyWarriors</p>,-100.00,100.00,-99.20
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,29,0,item-24,NULL,<p>Going to the dentist for a root canal this afternoon. Yay%2C I canâ€™t wait. #amazing</p>,-100.00,100.00,85.21
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,18,0,item-13,NULL,<p>Burn Facebook. Burn. I deleted my account permanently 2 years ago and have never been happier. &amp;#35;DeleteFacebook</p>,-100.00,100.00,-100.00
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,7,0,item-2,NULL,<p>So I just colored with Eva for an hour. Yeah my summer so far has been so fun :) &amp;#35;sister &amp;#35;holidays &amp;#35;lovepainting</p>,-100.00,100.00,-93.59
+1522438436,3ef9782e1f0a5c965aec0971acf6c001,ScaleNew,32,0,item-27,NULL,<p>I ordered 6 new pairs of shoes...this saving money thing is going pretty good for me #great</p>,-100.00,100.00,56.00
+#
+# Results on Friday March 30 2018 19:40:41 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 7.0; SM-A510F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36
+# Design number was non-random = 8
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1522438841,0d658a75dd1751e74def6f87e47cd338,Form,1,0,intro,NULL,consent,yes
+1522438841,0d658a75dd1751e74def6f87e47cd338,Form,1,0,intro,NULL,language,Other
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. html.
+# 9. startValue.
+# 10. endValue.
+# 11. value.
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,3,0,practice,NULL,<div style="width:45em"><blockquote style="text-align:justify"><p style="font-size:14px">This is a practice item%2C so your answer will not be taken into account for the experiment. Your task is to check whether you think the tweet below is ironic or not. If you think it is ironic%2C slide the slider all the way to the right. If you think the tweet is not ironic%2C then slide all the way to the left. If you are not sure%2C or you think the tweet is not fully ironic nor not ironic%2C you can slide the slider to some intermediate position.<br><b>Example 1:</b></p></blockquote> <p style="font-size:14px">"I really love this yearâ€™s summer; weeks and weeks of awful weather."</p> <blockquote style="text-align:justify"><p style="font-size:14px">In this example the tweet is ironic%2C so the handle should be placed somewhere on the right side of the slider (in the yellow area).</p></blockquote></div>,-100.00,100.00,94.00
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,4,0,practice,NULL,<div style="width:45em"><blockquote style="text-align:justify"><p style="font-size:14px">This is another practice item%2C so your answer will not be taken into account for the experiment. Again%2C you have to evaluate how ironic the tweet is.<br><b>Example 2:</b></p></blockquote> <p style="font-size:14px"> "happy birthday &lt;3 @grant_evans19 hope u have the best day :) love ya &lt;3"</p> <blockquote style="text-align:justify"><p style="font-size:14px">In this example the tweet is not ironic%2C so the handle should be placed somewhere on the left side of the slider (in the blue area).</p></blockquote></div>,-100.00,100.00,-97.20
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,27,0,item-22,NULL,<p>Let's have a moment of silence for all those who are stuck in #traffic on their way to #gym this morning.</p>,-100.00,100.00,34.00
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,22,0,item-17,NULL,<p>Behind the &amp;#35;Job: Life as a Formula 1 mechanic. As the new season starts in Australia%2C behind-the-scenes access at Williams Racing. It's home to two young talents who build the cars%2C not drive them @BBC @ChrisHewgill &amp;#35;F1</p>,-100.00,100.00,-96.40
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,9,0,item-4,NULL,<p>This play is amazingly good. &amp;#35;Shakespeare &amp;#35;theatre</p>,-100.00,100.00,-100.00
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,21,0,item-16,NULL,<p>Marchers are chanting â€œNo justice%2C no peace!â€ &amp;#35;MarchForOurLives @3onyourside</p>,-100.00,100.00,-97.60
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,31,0,item-26,NULL,<p>I just love it when I speak to folk and they totally ignore me!!! #thankyou #verypolite</p>,-100.00,100.00,99.20
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,15,0,item-10,NULL,<p>Monday mornings are my fave :) &amp;#35;run &amp;#35;sunny &amp;#35;beautifulDay</p>,-100.00,100.00,-57.20
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,28,0,item-23,NULL,<p>Most of us didn't focus in the #ADHD lecture. #lol</p>,-100.00,100.00,94.40
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,30,0,item-25,NULL,<p>Hahaha%2C who needs sleep anyhow. A lie in at the weekend may have been appreciated%2C but I'd much rather be awake right now. #coursenot #letmesleep</p>,-100.00,100.00,94.40
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,26,0,item-21,NULL,<p>Glad to see #Hollywood chose not to use evil #guns%2C knives or violence as part of their #profit machine%2C I mean movie. #Deadpool</p>,-100.00,100.00,-92.80
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,32,0,item-27,NULL,<p>I ordered 6 new pairs of shoes...this saving money thing is going pretty good for me #great</p>,-100.00,100.00,97.20
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,34,0,item-29,NULL,<p>Just saw a non-smoking sign in the lobby of a tobacco company. #logic</p>,-100.00,100.00,97.20
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,25,0,item-20,NULL,<p>And he sleeps bless him! &amp;#35;sleepy &amp;#35;myboy #myworld #son #love</p>,-100.00,100.00,-93.20
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,14,0,item-9,NULL,<p>Boyfriend of the year award. &amp;#35;breakup &amp;#35;cheater &amp;#35;sad &amp;#35;hurt</p>,-100.00,100.00,96.40
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,29,0,item-24,NULL,<p>Going to the dentist for a root canal this afternoon. Yay%2C I canâ€™t wait. #amazing</p>,-100.00,100.00,94.80
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,23,0,item-18,NULL,<p>With 29:29 left to play in the 1st half%2C the Lady Warriors Soccer Team is on the scoreboard. Taylor Gentry gets one by the keeper for a 1-0 lead. &amp;#35;soccer &amp;#35;LadyWarriors</p>,-100.00,100.00,-96.00
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,19,0,item-14,NULL,<p>Nothing makes me happier than spending time with our youngest grandson%2C Justin. He was named after our son who passed away. He is such a blessing! &amp;#35;InternationalDayOfHappiness</p>,-100.00,100.00,-98.00
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,24,0,item-19,NULL,<p>To our @laiylaa_ &lt;3 We spent two exceptional days with you &amp; we felt a pang of sorrow in our hearts as we left you this morning :'( Once again%2C thank you for having accompanied us in our challenges till the end! Take care! &amp;#35;friend </p>,-100.00,100.00,-94.40
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,20,0,item1-15,NULL,<p>&amp;#35;marchforourlives! &lt;3 Young people have the voice!</p>,-100.00,100.00,-96.80
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,12,0,item-7,NULL,<p>Oh how I love working in Baltimore &amp;#35;trafficJam &amp;#35;howNice</p>,-100.00,100.00,95.60
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,7,0,item-2,NULL,<p>So I just colored with Eva for an hour. Yeah my summer so far has been so fun :) &amp;#35;sister &amp;#35;holidays &amp;#35;lovepainting</p>,-100.00,100.00,-98.80
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,16,0,item-11,NULL,<p>So emotional this morning. Saying bye to my best friend again :( @melonhairy and reading the end of book 5 of hp. :( waah! &amp;#35;sad</p>,-100.00,100.00,94.40
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,35,0,item-30,NULL,<p>Throwing up at 6:00 am is always fun #yay #wow</p>,-100.00,100.00,98.80
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,11,0,item-6,NULL,<p>Republicans are &amp;#35;prolife and pro guns. &amp;#35;constitution &amp;#35;secondAmendment &amp;#35;proud</p>,-100.00,100.00,-100.00
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,6,0,item-1,NULL,<p>As always%2C Republicans are the most honest and truly work for the people. The Democrats are liars and thieves. &amp;#35;extremelySerious &amp;#35;lol</p>,-100.00,100.00,100.00
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,33,0,item-28,NULL,<p>@CIA We hear youâ€™re looking for sentiment analysis to detect sarcasm in Tweets. Thatâ€™ll be easy! #SLA2014 #goodLuck</p>,-100.00,100.00,96.80
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,13,0,item-8,NULL,<p>I love this band so much! &amp;#35;awesome &amp;#35;greatperformance </p>,-100.00,100.00,-95.60
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,18,0,item-13,NULL,<p>Burn Facebook. Burn. I deleted my account permanently 2 years ago and have never been happier. &amp;#35;DeleteFacebook</p>,-100.00,100.00,-94.40
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,8,0,item-3,NULL,<p>I can't believe I did it! All this hard work has paid off. &amp;#35;sportsIllustrated &amp;#35;joking</p>,-100.00,100.00,-100.00
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,17,0,item-12,NULL,<p>&amp;#35;HappyBirthdayEmilyBett @emilybett :) Wishing you all the best you beautiful%2Csweet%2Ctalented%2Camazingâ€¦ &amp;#35;birthdayGirl</p>,-100.00,100.00,-96.80
+1522438841,0d658a75dd1751e74def6f87e47cd338,ScaleNew,10,0,item-5,NULL,<p>I really have fantasssstic friends.. &amp;#35;fight &amp;#35;drunk</p>,-100.00,100.00,93.60
